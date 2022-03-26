@@ -14,3 +14,11 @@
  * DONT USE:
  * Dont use with applications the need heavy server-side processing (CPU-intensive), heavy video compressions, image manipulations
  */
+
+
+//Todo: synchronous vs asynchronous
+// Synchronous => Blocking
+// Asynchronous => Non-blocking
+// I/O => Input, Output
+
+//? Node is built around call backs to achieve an asynchronous behaviour
